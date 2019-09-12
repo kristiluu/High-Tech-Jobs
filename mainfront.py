@@ -1,5 +1,4 @@
 # Kristi Luu & Amir Alaj
-# Lab 3 -- CIS41B
 
 # This program will display a GUI and interacts with a database.
 import sqlite3
