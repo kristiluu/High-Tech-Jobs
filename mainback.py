@@ -1,4 +1,4 @@
-#Amir Alaj & Kristi Luu; Lab3; CIS 41B
+#Amir Alaj & Kristi Luu; 
 #This program uses the requests library to read in the html file from a website
 #('https://www.bls.gov/ooh/computer-and-information-technology/home.htm') and grabs the URLs within
 #in order to grab data about jobs that relate in computers. This information is stored into a nested 
